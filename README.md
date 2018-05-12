@@ -1,6 +1,8 @@
 # Najkraci-put-na-mapi
-C++
+
 Zadatak je na adresi: https://rbtree.github.io/apply/assignments/assignment3.html
+
+C++
 
 Potrebno je uneti putanju do dokumenta u kome je opisana mapa, a zatim i putanja do foldera gde se cuva resenje.
 Po izvrsavanju programa, izbacuje se vreme izvrsavanja i putanja do dokumenta u kome se cuva resenje.
