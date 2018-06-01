@@ -1,6 +1,6 @@
 # Najkraci-put-na-mapi
 
-Zadatak je na adresi: https://rbtree.github.io/apply/assignments/assignment3.html
+Zadatak je na adresi: https://rbtree.github.io/apply/assignments/assignment6.html
 
 C++
 
